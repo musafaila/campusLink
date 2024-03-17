@@ -38,3 +38,7 @@ export const loginData = [
         name: "password"
     },
 ]
+
+export const menuItems = [
+    "Dashboard", "Order", "Wallet", "History", "Logout"
+]

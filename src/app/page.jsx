@@ -1,8 +1,8 @@
-import Home from "@/components/Home";
+import Home from "@/components/home/Home";
 
 export default function Homepage() {
   return (
-    <main className="flex min-h-screen w-full">
+    <main className="w-full">
         <Home />
     </main>
   );

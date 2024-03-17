@@ -33,7 +33,7 @@ export default function ValForm({ text, formInput, formFields, action, option, o
     }
 
     return (
-    <div className="relative w-full max-w-[40rem] h-screen text-white flex flex-col items-center justify-center gap-6 mx-auto">
+    <div className="relative w-full max-w-[40rem] min-h-screen text-white flex flex-col items-center justify-center gap-6 mx-auto">
         <div className="text-5xl md:text-6xl font-bold text-yellow-600">
             CampusLink
         </div>
